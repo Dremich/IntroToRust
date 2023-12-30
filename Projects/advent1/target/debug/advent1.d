@@ -1,0 +1,1 @@
+C:\Repositories\IntroToRust\IntroToRust\Projects\advent1\target\debug\advent1.exe: C:\Repositories\IntroToRust\IntroToRust\Projects\advent1\src\input.rs C:\Repositories\IntroToRust\IntroToRust\Projects\advent1\src\main.rs
